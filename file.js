@@ -131,4 +131,3 @@ window.onload = function () {
 
 };
 </script>
-<div id="live"></div>
